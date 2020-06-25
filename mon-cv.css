@@ -1,0 +1,57 @@
+header {
+    background-color: grey;
+    border-width: 2px;
+border-style: solid;
+border-color:black;
+
+   }
+
+
+   nav{
+    background-color: white;
+        text-align: center;
+        position: initial;
+    }
+
+section.competences {
+  
+text-align: center;
+margin-left: 650px;
+margin-right: -300px;
+margin-top: -12%;
+}
+
+main {
+    display: block;
+ background-color: grey;
+ border-width: 2px;
+border-style: solid;
+border-color:black;
+
+}
+ 
+p.competences{
+    text-align: center;
+}
+
+section.profil {
+    border-width: 2px;
+border-style: solid;
+border-color:black;
+margin: 10px 380px 0 10px;
+background-color: white;
+
+}
+
+footer {
+    background-color: grey;
+    border-width: 2px;
+    border-style: solid;
+    border-color:black;
+  
+ }
+.link{
+   
+    margin-left: 80%;
+   
+     }

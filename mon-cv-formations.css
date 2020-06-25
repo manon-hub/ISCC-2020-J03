@@ -1,0 +1,39 @@
+header {
+    background-color: grey;
+    border-width: 2px;
+border-style: solid;
+border-color:black;
+
+   }
+   
+
+
+nav{
+background-color:white; 
+    text-align: center;
+    
+}
+
+section.experiences
+ {
+text-align:left
+}
+
+main {
+    display: block;
+ background-color: grey;
+ border-width: 2px;
+border-style: solid;
+border-color:black;
+
+}
+
+.link 
+{
+
+    margin-left: 80%;
+   
+}
+footer {
+    background-color: grey;
+}
